@@ -1,4 +1,4 @@
 interface:
   display_name: "Landing Page Psychology"
-  short_description: "Landing page psychology for conversion design."
-  default_prompt: "Use this skill to review or plan a landing page with psychology principles."
+  short_description: "Conversion psychology for landing pages."
+  default_prompt: "Use $landing-page-psychology to audit or plan a landing page with conversion psychology."
