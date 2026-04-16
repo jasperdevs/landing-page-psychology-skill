@@ -1,40 +1,55 @@
 ---
-name: landing-page-psychology-skill
-description: Landing page psychology reference for conversion-focused design, trust-building, urgency, value framing, CTA contrast, social proof, cognitive load, anchoring, completion bias, loss aversion, premium visual quality, and choice reduction. Use when reviewing, writing, planning, or improving landing pages, hero sections, CTAs, proof sections, SaaS pages, or conversion copy.
+name: landing-page-psychology
+description: Conversion-focused landing page psychology for audits, rewrites, wireframes, page strategy, hero sections, CTAs, proof sections, SaaS/product pages, and conversion copy. Use when Codex needs to improve trust, urgency, value framing, visual hierarchy, social proof, cognitive load, anchoring, loss aversion, completion flow, premium perception, or choice reduction on a landing page.
 ---
 
 # Landing Page Psychology
 
 Use this skill to turn landing page psychology into concrete page structure, conversion copy, visual hierarchy, and audit feedback.
 
-## Required Reference
+## References
 
-Read `references/landing-page-psychology-principles.md` before any full landing page audit, rewrite, wireframe, section plan, or conversion review.
+Read `references/audit-rubric.md` before any landing page audit, rewrite, wireframe, section plan, or conversion review.
 
-Use the reference as the source of truth for the nine principles:
+Read `references/landing-page-psychology-principles.md` when doing full-page work, explaining rationale, or checking the original source lesson. Keep that file as the canonical source; do not rewrite or compress it.
 
-1. Serial position effect
-2. Von Restorff effect
-3. Cognitive load theory
-4. Social proof cascading
-5. Anchoring bias
-6. Completion bias
-7. Loss aversion framing
-8. Halo effect
-9. Choice reduction
+## Intake
+
+Identify or infer:
+
+- Primary conversion action
+- Audience and buyer stage
+- Offer, promise, or product category
+- Available proof: logos, testimonials, metrics, case studies, screenshots, demos
+- Main objection or pain the page needs to overcome
+
+If a required detail is missing, make a reasonable assumption and state it briefly. Ask only when the primary conversion action cannot be inferred.
 
 ## Workflow
 
-1. Identify the page's single primary conversion action.
-2. Map the current or proposed page into hero, immediate proof, feature/details, deeper proof, objection handling, and final CTA.
-3. Check every section against the nine principles in the required reference.
-4. Recommend concrete changes to copy, order, CTA treatment, proof placement, numbers, visual polish, and choice count.
-5. Keep advice specific to the page, product, audience, and conversion goal.
+1. Define the single primary CTA and demote competing actions.
+2. Structure the first and last impressions before optimizing the middle.
+3. Make the CTA visually distinct from the surrounding pattern.
+4. Limit each section to the few points a visitor can process quickly.
+5. Build a proof cascade from immediate proof to deeper testimonial or case-study proof.
+6. Put the strongest credible anchor early: a large number, market problem, current loss, or scale cue.
+7. Frame the value around current pain or loss when that is sharper than future gain.
+8. Check whether visual quality creates a premium halo.
+9. Add completion cues only when they support the story or form flow.
 
-## Output Rules
+## Output Modes
 
-- For audits, lead with the highest-impact fixes and tie each finding to a principle.
-- For new pages, produce a section-by-section structure with suggested copy direction and proof requirements.
-- For copy rewrites, preserve the user's offer and make the CTA, anchor, pain framing, and proof sharper.
-- Avoid generic CRO advice unless it is directly connected to one of the nine principles.
+For an audit, lead with the highest-impact fixes. Use: `Issue`, `Principle`, `Why it matters`, `Exact fix`.
+
+For a new page plan, produce a section-by-section structure with the job of each section, suggested copy direction, proof needed, and CTA treatment.
+
+For copy rewrites, preserve the user's offer while strengthening the CTA, anchor, pain framing, proof, and section order.
+
+## Guardrails
+
+- Do not invent logos, testimonials, metrics, case studies, or conversion lift claims.
+- Do not guarantee conversion increases.
+- Do not add urgency unless the offer has a real reason for urgency.
+- Do not turn every button into the loudest visual element; one primary action should dominate.
+- Do not give generic CRO advice unless it maps directly to the rubric.
 - Do not drop principles from a full-page review; if a principle does not apply, say why briefly.
