@@ -10,15 +10,6 @@
 npx skills add jasperdevs/landing-page-psychology-skill
 ```
 
-<details>
-<summary>Install Manually</summary>
-
-```bash
-npx skills add https://github.com/jasperdevs/landing-page-psychology-skill --skill landing-page-psychology
-```
-
-</details>
-
 ## `landing-page-psychology`
 
 ```text
