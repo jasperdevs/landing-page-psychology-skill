@@ -21,6 +21,4 @@ npx skills add https://github.com/jasperdevs/landing-page-psychology-skill --ski
 
 ## `landing-page-psychology-skill`
 
-Use this skill when reviewing, writing, planning, or improving landing pages, hero sections, CTAs, proof sections, SaaS pages, or conversion copy.
-
 View `landing-page-psychology-skill` on [GitHub](https://github.com/jasperdevs/landing-page-psychology-skill).
