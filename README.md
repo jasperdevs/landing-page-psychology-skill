@@ -21,4 +21,4 @@ npx skills add https://github.com/jasperdevs/landing-page-psychology-skill --ski
 
 ## `landing-page-psychology-skill`
 
-View `landing-page-psychology-skill` on [GitHub](https://github.com/jasperdevs/landing-page-psychology-skill).
+View `landing-page-psychology-skill` on [skills.sh](https://skills.sh/jasperdevs/landing-page-psychology-skill/landing-page-psychology-skill).
