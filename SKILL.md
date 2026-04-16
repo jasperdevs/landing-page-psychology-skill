@@ -3,6 +3,27 @@ name: landing-page-psychology-skill
 description: Landing page psychology reference for conversion-focused design, trust-building, urgency, value framing, CTA contrast, social proof, cognitive load, anchoring, completion bias, loss aversion, premium visual quality, and choice reduction. Use when reviewing, writing, planning, or improving landing pages, hero sections, CTAs, proof sections, SaaS pages, or conversion copy.
 ---
 
+Apply the landing page psychology reference below as an operating prompt, not as an article to summarize.
+
+When using this skill:
+- Audit or create the page around the nine principles in the reference.
+- Preserve the page's main conversion goal and make one primary CTA visually dominant.
+- Put the strongest claim at the top and the strongest proof or urgency cue near the final CTA.
+- Keep each section cognitively light: prefer 3-4 concrete points before adding more detail.
+- Layer proof naturally from hero proof to testimonials, case studies, numbers, and final CTA support.
+- Anchor with the largest credible number, market problem, pain, or cost before smaller supporting details.
+- Frame value through current loss when that is stronger than future gain.
+- Treat premium visual quality, typography, imagery, motion, spacing, and polish as conversion signals.
+- Reduce competing choices unless the page truly needs a secondary path.
+
+Output guidance:
+- For audits, give direct findings tied to specific principles and then recommend concrete edits.
+- For copy or layout work, produce usable section-by-section page direction, not generic advice.
+- Do not omit any principle when the task is a full landing page review or build.
+- Do not rewrite, shorten, or water down the canonical reference below.
+
+## Canonical Reference
+
 every element is designed to manipulate how your brain processes trust, urgency, and value. 
 here's what's actually happening:
 principle 1: the serial position effect

@@ -1,21 +1,26 @@
-# Landing Page Psychology Skill
+<h1 align="center">🧠 landing-page-psychology</h1>
 
-A compact Codex skill for thinking through landing pages with conversion psychology: trust, urgency, value framing, CTA salience, proof placement, cognitive load, anchoring, completion bias, loss aversion, premium visual cues, and choice reduction.
+<p align="center">use landing page psychology to shape trust, urgency, value, proof, and conversion flow</p>
 
-The skill content is preserved exactly as supplied.
+<p align="center">Credit: <a href="https://twitter.com/clear_graphics">@clear_graphics</a></p>
 
-## Use It For
+## Install
 
-- Reviewing landing pages before launch
-- Planning hero sections, CTAs, proof sections, and final conversion moments
-- Tightening SaaS or product page structure around how visitors actually process information
-- Checking whether a page creates a clear beginning, middle, and end
+```bash
+npx skills add jasperdevs/landing-page-psychology-skill
+```
 
-## Files
+<details>
+<summary>Install Manually</summary>
 
-- `SKILL.md` - the Codex skill definition and verbatim landing page psychology reference
-- `agents/openai.yaml` - optional UI metadata for Codex skill lists
+```bash
+npx skills add https://github.com/jasperdevs/landing-page-psychology-skill --skill landing-page-psychology-skill
+```
 
-## Credit
+</details>
 
-Original landing page psychology reference credited to [@clear_graphics](https://twitter.com/clear_graphics) on Twitter/X.
+## `landing-page-psychology-skill`
+
+Use this skill when reviewing, writing, planning, or improving landing pages, hero sections, CTAs, proof sections, SaaS pages, or conversion copy.
+
+View `landing-page-psychology-skill` on [GitHub](https://github.com/jasperdevs/landing-page-psychology-skill).
